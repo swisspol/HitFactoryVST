@@ -709,6 +709,91 @@
   "flags": 256,
   "type": "sfil"
  },
+ "Demo music Files/Core": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Disco": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Foo": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Happy": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Happy HardCore Mix": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/HardCore - Megamix": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/Join the crowd": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/Lost Genesis Remix - BEST ONE!": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/Progressive": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Progressive II": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Raise Ya Power": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/Read me first_ Lisez-moi avant": {
+  "creator": "ttxt",
+  "flags": 256,
+  "type": "ttro"
+ },
+ "Demo music Files/Techno set": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/Techno set II": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/This is": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
+ "Demo music Files/Trance": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Patt"
+ },
+ "Demo music Files/What's that mix_": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Msic"
+ },
  "Drum Kits/Abbréviations": {
   "creator": "ttxt",
   "flags": 256,
