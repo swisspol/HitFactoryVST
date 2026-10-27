@@ -1,0 +1,2842 @@
+{
+ "Complex Rhythms/80's": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Accent": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/African": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Airscape - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Allelujah-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Allelujah-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Amorph - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Army-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Beat": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Bigger": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Birth - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Break": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Caraib": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Cool Disco - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Creams": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Culture": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Dance - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Dawn Chorus": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Disco - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Disco Clap": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Dreams": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Dreams-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Dreams-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Drums": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Evolver": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Feat - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Floor": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Floor - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Frame": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Generation": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Global": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Green-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Green-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Green-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Green-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Green-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hard House": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hard Rap": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/HardHouse": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Heavy Rap": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hi Fi": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hip Hop Bg-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hip Hop Bg-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hip Hop Bg-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Human": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hunter": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hyper - long": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hyper - short": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Hysteric": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Indris - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Jungle": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Jungle - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Jungle Scream": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Kinda Samba-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Kinda Samba-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Kinda Techno": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Lancinant": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Light": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Maximum - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/No Good-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/No Good-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Old": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Om": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/OutBurst": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Pause": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Phoenix - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Placid": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Prod-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Prod-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Prod-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Prod-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Rap-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Rap-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Rap-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Ravers": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Ready_": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/RoughNeck": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Samba": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Schrink": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Scope": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Strange-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Strange-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Stretch": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Sun": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/TechonoBot": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Teknik": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Texas - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Thoka - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Truth": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Twilight - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/U-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/U-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/U-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/U-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/U-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/U-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/UnderGround - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/Village": {
+  "creator": "√sfx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Warming - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Complex Rhythms/With Bass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Woman": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Rhythms/Zone Bass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Acid Ectasy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Bof": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Bourée": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Classic": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Computerized": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Eh Eh": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/English": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Flow-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Flow-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Fog-long": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Fog-short": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Guitar": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Happy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/High Speed Disco": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Hippie Yeah": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Hope": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/House": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Is it good_": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Jazzy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Jungle - Saxo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/K": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Kinda Dance": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Last": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Liquid": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Lost": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Love": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/MegaDance": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Music": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Naughty": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Old Rave": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Pan": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Pulp": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Sleepless": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Some noise": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Symbiose": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/System": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Underground": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Unlimited Screaming": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Whisplash": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Complex Samples/Zone": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Abbréviations": {
+  "creator": "ttxt",
+  "flags": 256,
+  "type": "TEXT"
+ },
+ "Drum Kits/Acs Snare-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Acs Snare-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bass-8": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-10": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-11": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-12": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-13": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-4": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-5": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-6": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-8": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Bss Drum-9": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cabasa": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Chinese Cymbal": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-4": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-5": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Clap-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Claves": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cowbell": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Crh Cymbal-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Crh Cymbal-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Csd Hi Hat-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Csd Hi Hat-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Csd Hi Hat-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Csd Hi Hat-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Cymbal-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Elec Snare-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Elec Snare-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Elec Snare-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Elec Snare-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Elec Snare-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/HardCore-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/HardCore-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/HardCore-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/HardCore-4": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/HardCore-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Hi Bongo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Hi Mid Tom-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Hi Mid Tom-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/High Agogo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/High Floor Tom": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/High Timbale": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/House bass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Agogo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Bongo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Conga": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Floor Tom": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Timbale": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Low Tom": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Maxx-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Maxx-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Maxx-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Mute Hi-Conga": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-4": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Navy-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Open Hi Hat-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Open Hi Hat-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Open Hi Hat-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Open Hi-Conga": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Reverse Cymbal": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Ride Bell": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Ride Cymbale": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Side Stick-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Side Stick-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Side Stick-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Speed-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Speed-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Srt Whistle-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Srt Whistle-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Tambourine": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-10": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-11": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-12": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-13": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-14": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-15": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-16": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-17": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-18": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-19": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-20": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-21": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-22": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-23": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-24": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-25": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-26": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-27": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-28": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-29": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-3": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-30": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-4": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-5": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-8": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Drum Kits/Techno-9": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Hit Factory VST 3.3": {
+  "creator": "HiFc",
+  "flags": 8448,
+  "type": "APPL"
+ },
+ "Hit Factory VST 3.3 Manual": {
+  "creator": "Dk@P",
+  "flags": 8448,
+  "type": "APPL"
+ },
+ "Instruments/Ahhhh": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Attak": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Axel": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Beep": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Bells-1": {
+  "creator": "AUDI",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Bells-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Bells-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Bong": {
+  "creator": "AUDI",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Brake": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Bust": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Caucase": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/China": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Choral": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Cristal": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Dance-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Decelerate": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Electro-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Electro-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/End": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Fly": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hip Hop-8": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Hit": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Humm-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Acid": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Army": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Dance": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Disco": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Jungle": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Rap-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Rap-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Rap-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Intro Trance": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Long": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Long Dream": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Long hit": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Maxxy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Now": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Power": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Rap": {
+  "creator": "jB•x",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Rave-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Rave-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Reaper": {
+  "creator": "jB•x",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Resonatix": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Reverse Cymbale": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Rocking": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Scratch": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Setting": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Short": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Stereo Hip Hop": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Tech-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Tech-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Tech-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Tiiii": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Vibration": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Instruments/Warm": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Plug-Ins/AIFF Direct To Disk": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "DDPI"
+ },
+ "Plug-Ins/AIFF Import": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "ImPI"
+ },
+ "Plug-Ins/Digital Editor": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "EdPI"
+ },
+ "Plug-Ins/System 7 Sound Direct To Disk": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "DDPI"
+ },
+ "Plug-Ins/System 7 Sound Import": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "ImPI"
+ },
+ "Plug-Ins/VST Interface": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "ItPI"
+ },
+ "Rhythms/Bass - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Rhythms/Circles": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Classic Bass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Dance Speed - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Rhythms/Dark": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Doof": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Experience Bass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Fast Background": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Hard": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Hard Techno": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/HardCore Bass - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Rhythms/HardCore Speed - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Rhythms/Kosmos": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Lissat-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Lissat-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Manix": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Mass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/MegaBass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Orbit": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Rebel-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Rebel-2": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Rhythms/Speed - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Samples/Acid": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Acid-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Acid-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Acid-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Ahead": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/All about": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Axonal": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Azymuth": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Backstage-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Backstage-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Barbarie": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Birds": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Boomer": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Boring": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Brain": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Bring": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Burning": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Buzzy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Chorus": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Classical": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Cocoa": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Coming": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Control": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Cool": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Core": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Cos I'm just getting hot": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Crazy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Creole": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Crunched": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Dominate": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Domingo": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Dream Bells": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Dream Trance": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Dreamer": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/East": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Endless": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Error": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Evolution-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Evolution-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Floor Bank": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Samples/Force": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Framic": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Full": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Future - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Samples/Fuzz": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Getting hot": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Glass": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Glass piano": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Go for it!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-5": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-6": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-7": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Groove-8": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Happy HardCore": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Harmony": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Hear it": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Heart": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Heat": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Hook": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Hop-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Hope": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Into": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/JoyRider-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/JoyRider-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Maxi No Good": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Mega": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Metal": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Metropolis": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Micro": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Moon": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Mysterious": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/NRGizer": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Never Die": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Nightmare-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Nightmare-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Nightmare-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Noise": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Nuke": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Octopus": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Olé": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Organ-long": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Organ-short": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Ouuuh-1": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Ouuuh-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/People": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Piano-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Piano-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Piano-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Piano-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Pimp": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Planet": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Porta": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Randy": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Rap": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Redemption-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Redemption-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Revolution": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Road": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Rock": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Saxo-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Saxo-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Share": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/ShyDiving": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Sonic": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Space": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Stadium": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Starting bells": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/State - BANK": {
+  "creator": "HiFc",
+  "flags": 256,
+  "type": "Bank"
+ },
+ "Samples/Sweet-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Sweet-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Sweet-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Techno": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Things": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Time": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Tool-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Totally": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/TransWave": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Transfiguration": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Unconscious-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Unconscious-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Underworld": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Unlimited-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Unlimited-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Viber-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Viber-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Virtual": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Weird": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/What is": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Samples/Wonderful": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Are you": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Bass!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Bot": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/C'mon Y'all": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Can't beat the system": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Check This Out": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Crowd-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Crowd-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Disco": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Drop it": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Ectasy": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Excellent": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Experience": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Funkiness": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Go with the flow": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/God they": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Ha ha!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Happy House": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/HardCore": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/HardCore will never die": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Here we go": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Hey!!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Hi there!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Hit it!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/I Will": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/I wanna rock you": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/I'm original": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/I'm the king of rap!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/In the air": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/India Voice": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Injected with a poison": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/JoyRider": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Lost Genesis": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Make some noise": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Money_": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/No problem": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Now you know": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/OK, let's do it!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Oder Was_": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Oh Yeah!!": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Oh sacrilege": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Party Time": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/People": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/QUIET!!": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Raise your power": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Reaching out": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Ready for TakeOff": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Rock dabba": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Scream": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Simply": {
+  "creator": "movr",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Space People": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Tan": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/This is the beginning": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/What was it like": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Ya ready_": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Yeah-1": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Yeah-2": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Yeah-3": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ },
+ "Voices/Yeah-4": {
+  "creator": "√SFx",
+  "flags": 256,
+  "type": "sfil"
+ }
+}
